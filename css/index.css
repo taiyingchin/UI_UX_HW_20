@@ -30,7 +30,7 @@ h1, h2, h3, h4{ /* default for h1 - h4 */
 
 /* Navigation Bar */
 .navbar{
-    /* border: 1px solid red; */
+    border: 1px solid red;
     height: 70px;
 }
 
@@ -45,7 +45,7 @@ h1, h2, h3, h4{ /* default for h1 - h4 */
 
 .navbar img{
     width: 69px;
-    height: 86px;
+    height: 89px;
     margin-top: 1%;
 }
 
