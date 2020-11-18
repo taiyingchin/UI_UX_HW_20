@@ -59,6 +59,225 @@ h1, h2, h3, h4{ /* default for h1 - h4 */
     overflow: hidden;
 }
 
+/* Introduction */
+.intro .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+}
+
+.intro p{
+    padding-left: 150px;
+    padding-bottom: 10px;
+}
+
+.intro .container{
+    text-align: center;
+}
+
+/* Background */
+.background .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.background p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
+/* Challenges */
+.challenges .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.challenges p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
+/* Process Section Dividier */
+.process-section .display-5{
+    /* padding-left: 150px; */
+    text-align: center;
+    padding-bottom: 30px;
+    margin-top: 100px;
+}
+
+.process-section .container{
+    text-align: center;
+}
+
+/* Empatize Section Header */
+.empathize-section{
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* User Research */
+.user-research .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.user-research p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
+/* Key Takeaways */
+.key-takeaways .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.key-takeaways p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
+/* Proto Persona */
+.proto-persona .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.proto-persona p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
+/* Define Section Header */
+.define-section{
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Problem Statement */
+.problem-statement .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.problem-statement p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
+/* User Insight Statement */
+.user-insight .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.user-insight p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
+/* Define Section Header */
+.ideate-section{
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Brainstorming Process */
+.brainstorming .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.brainstorming p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
+/* Prototyping Section Header */
+.prototyping{
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Lofi Prototypes */
+.lofi .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.lofi p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
+/* Hifi Prototypes */
+.hifi .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.hifi p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
+/* Testing Section Header */
+.testing{
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Testing and Iteration */
+.test-iter .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.test-iter p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
+/* Results Section Header */
+.results{
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Final Learnings */
+.final-learn .display-5{
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+.final-learn p{
+    max-width: 83%;
+    text-align: center;
+    margin: auto;
+}
+
 /* Utilities */
 .container-flex{
     max-width: 1500px;
